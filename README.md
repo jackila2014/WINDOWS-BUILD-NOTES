@@ -1,6 +1,6 @@
 WINDOWS BUILD NOTES
 ====================
-
+Reference Youtube Video: https://www.youtube.com/watch?v=Jf7XY65rfSU
 Below are some notes on how to build Bitcoin Core for Windows.
 
 The options known to work for building Bitcoin Core on Windows are:
