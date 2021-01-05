@@ -136,7 +136,7 @@ executables to a directory on the windows drive in the same directory structure
 as they appear in the release `.zip` archive. This can be done in the following
 way. This will install to `c:\workspace\bitcoin`, for example:
 
-    make install DESTDIR=/mnt/c/User/your-username/Desktop/bitcoin
+    make install DESTDIR=/mnt/c/Users/your-username/Desktop/bitcoin
 
 Footnotes
 ---------
